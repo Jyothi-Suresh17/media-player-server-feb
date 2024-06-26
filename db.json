@@ -1,0 +1,157 @@
+{
+  "videos": [
+    {
+      "caption": "Monster EXO",
+      "image": "https://ss-images.saostar.vn/wp1000/2019/11/13/6433390/em2.jpg",
+      "url": "https://www.youtube.com/embed/KSH-FVVtTf0",
+      "id": 2
+    },
+    {
+      "caption": "Daru Desi",
+      "image": "https://i.pinimg.com/originals/7b/e8/33/7be833b514f2b4b85d78ebd88db35866.jpg",
+      "url": "https://www.youtube.com/embed/3nA1hmKCRpE",
+      "id": 6
+    },
+    {
+      "caption": "Aashiyan - Barfi",
+      "image": "https://guitarbollywood.com/wp-content/uploads/2017/03/aashiyan.jpg",
+      "url": "https://www.youtube.com/embed/OuNGySNJjWg",
+      "id": 7
+    },
+    {
+      "caption": " Set Fire To The Rain ",
+      "image": "https://th.bing.com/th/id/R.8aa9bed2862b8be5df0025b26b187491?rik=9gv%2f9sQT9DGKPQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f-YgR7OyeKV2g%2fTe5izoaxrEI%2fAAAAAAAAAWA%2fJgPKY_szWlw%2fs1600%2fadele-set-fire-to-the-rain.jpg&ehk=OAF%2bIhTC3EYM98OSijmO0nJVpv7nKfcHoHIo%2fXUhCbk%3d&risl=&pid=ImgRaw&r=0",
+      "url": "https://www.youtube.com/embed/Ri7-vnrJD3k",
+      "id": 8
+    },
+    {
+      "caption": "Gazab Ka Hai Din ",
+      "image": "https://images.genius.com/6196a7cfb826a0e3de1be9ed0daf9edb.1000x1000x1.jpg",
+      "url": "https://www.youtube.com/embed/_0CFtvtxoXU",
+      "id": 9
+    },
+    {
+      "caption": "Unfaithful",
+      "image": "https://i5.walmartimages.com/asr/217c19da-f206-4dfa-b158-ae463913048a.fd4edb46433132bed3980963b966da1c.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+      "url": "https://www.youtube.com/embed/rp4UwPZfRis",
+      "id": 12
+    },
+    {
+      "caption": "Mileya Mileya ",
+      "image": "https://a10.gaanacdn.com/images/albums/67/6755067/crop_480x480_6755067.jpg",
+      "url": "https://www.youtube.com/embed/zDtvoZAHVTY",
+      "id": 13
+    },
+    {
+      "caption": "First Love",
+      "image": "https://imagizer.imageshack.com/img924/2026/LFI6vD.jpg",
+      "url": "https://www.youtube.com/embed/XH1EXDHVG9s",
+      "id": 14
+    },
+    {
+      "caption": " Here Always",
+      "image": "https://images.genius.com/5a75a58036cfb17774022cfda251e07e.1000x1000x1.jpg",
+      "url": "https://www.youtube.com/embed/iIkVGAjIdKk",
+      "id": 15
+    },
+    {
+      "caption": "Perfect",
+      "image": "https://th.bing.com/th/id/OIP.BHNikSn8fUJoIgZ5Cm2wTgHaHa?rs=1&pid=ImgDetMain",
+      "url": "https://www.youtube.com/embed/Ho32Oh6b4jc",
+      "id": 17
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Hindi",
+      "allVideo": [
+        {
+          "caption": "Aashiyan - Barfi",
+          "image": "https://guitarbollywood.com/wp-content/uploads/2017/03/aashiyan.jpg",
+          "url": "https://www.youtube.com/embed/OuNGySNJjWg",
+          "id": 7
+        },
+        {
+          "caption": "Daru Desi",
+          "image": "https://i.pinimg.com/originals/7b/e8/33/7be833b514f2b4b85d78ebd88db35866.jpg",
+          "url": "https://www.youtube.com/embed/3nA1hmKCRpE",
+          "id": 6
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "kpop",
+      "allVideo": [
+        {
+          "caption": "Monster EXO",
+          "image": "https://ss-images.saostar.vn/wp1000/2019/11/13/6433390/em2.jpg",
+          "url": "https://www.youtube.com/embed/KSH-FVVtTf0",
+          "id": 2
+        },
+        {
+          "caption": "First Love",
+          "image": "https://imagizer.imageshack.com/img924/2026/LFI6vD.jpg",
+          "url": "https://www.youtube.com/embed/XH1EXDHVG9s",
+          "id": 14
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Anime",
+      "allVideo": [],
+      "id": 4
+    },
+    {
+      "categoryName": "OneDirection",
+      "allVideo": [
+        {
+          "caption": "The Story of My Life",
+          "image": "https://pics.filmaffinity.com/One_Direction_Story_of_My_Life_Music_Video-821538223-large.jpg",
+          "url": "https://www.youtube.com/embed/W-TE_Ys4iwM",
+          "id": 16
+        },
+        {
+          "caption": "Perfect",
+          "image": "https://th.bing.com/th/id/OIP.BHNikSn8fUJoIgZ5Cm2wTgHaHa?rs=1&pid=ImgDetMain",
+          "url": "https://www.youtube.com/embed/Ho32Oh6b4jc",
+          "id": 17
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "watchHistory": [
+    {
+      "caption": "Monster EXO",
+      "url": "https://www.youtube.com/embed/KSH-FVVtTf0",
+      "timeStamp": "20/06/2024, 09:49:24",
+      "id": 1
+    },
+    {
+      "caption": "Daru Desi",
+      "url": "https://www.youtube.com/embed/3nA1hmKCRpE",
+      "timeStamp": "20/06/2024, 10:18:02",
+      "id": 4
+    },
+    {
+      "caption": "Monster EXO",
+      "url": "https://www.youtube.com/embed/KSH-FVVtTf0",
+      "timeStamp": "20/06/2024, 10:23:32",
+      "id": 5
+    },
+    {
+      "caption": " Set Fire To The Rain ",
+      "url": "https://www.youtube.com/embed/Ri7-vnrJD3k",
+      "timeStamp": "24/06/2024, 18:19:27",
+      "id": 6
+    },
+    {
+      "caption": "What Makes You Beautiful",
+      "url": "https://www.youtube.com/embed/QJO3ROT-A4E",
+      "timeStamp": "24/06/2024, 20:05:10",
+      "id": 7
+    }
+  ]
+}
